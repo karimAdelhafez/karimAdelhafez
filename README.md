@@ -1,6 +1,6 @@
 # Karim Adel Hafez
 
-### Senior QA Automation Engineer | SDET | Test Automation Architecture
+### QA Lead | Senior QA Automation Engineer | SDET | Test Automation Architecture
 
 Software Quality Engineer with 13+ years of experience in software testing and quality engineering, including 5+ years in test automation.
 
